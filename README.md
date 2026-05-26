@@ -16,6 +16,10 @@ The project demonstrates API integration, JSON parsing, and error handling while
 2.If the response status is 200, it parses the JSON to extract temp, humidity, wind.speed, and weather.description.
 3.All exceptions like ConnectionError, Timeout, and HTTPError are caught and returned as user-friendly messages instead of crashes.
 
+#FEATURE
+The Weather-Based Routine Planner is a Python project that helps users plan their daily activities according to weather conditions.
+The system takes weather details such as temperature, rain probability, humidity, wind speed, and thunderstorm warnings from the user and provides smart routine suggestions.
+
 
 #IMPORTANT NOTES
 
