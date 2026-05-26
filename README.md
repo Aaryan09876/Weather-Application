@@ -17,6 +17,7 @@ The project demonstrates API integration, JSON parsing, and error handling while
 3.All exceptions like ConnectionError, Timeout, and HTTPError are caught and returned as user-friendly messages instead of crashes.
 
 #FEATURE
+
 The Weather-Based Routine Planner is a Python project that helps users plan their daily activities according to weather conditions.
 The system takes weather details such as temperature, rain probability, humidity, wind speed, and thunderstorm warnings from the user and provides smart routine suggestions.
 
